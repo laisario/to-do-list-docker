@@ -1,10 +1,2 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# To-Do List
+Este projeto é uma aplicação de lista de tarefas (To-Do List) que utiliza Docker para a criação e gerenciamento de containers para o front-end e back-end. Ele foi desenvolvido para aprender sobre Docker, incluindo seus conceitos, manipulação de containers e imagens, bem como para entender a comunicação entre serviços.
